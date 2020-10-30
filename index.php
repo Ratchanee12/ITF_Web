@@ -1,4 +1,8 @@
-<?php
-echo "<h2>IT@KMITL</h2>";
-echo "Hello IT<br>";
-?>
+<html>
+  <head>
+    <title>รัชนีย์ ขันธิวงค์ ชื่อเล่น น้อยหน่า</title>
+  </head>
+  <body>
+    
+   </body>
+  </html>
